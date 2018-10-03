@@ -1,4 +1,4 @@
-## Portfolio site 2017
+## Portfolio site 2018
 
 ### LINK: https://4qu3l3c4r4.github.io
 
@@ -25,21 +25,21 @@ Remove the google analytics code at the head of `index.html` please ??(or setup 
 
 ---
 
-#### Nov 11, 2017
+#### Out 03, 2018
 * redesign/update page 1
 * style fixes, added particles-js, added btn to switch style (page 1)
 
-#### Oct 22, 2017
+#### Oct 02, 2018
 * minor update
 
-#### Oct 19 - Oct 20, 2017
+#### Oct 01 - Oct 03, 2018
 * Page 3 update, Blockchain (SHA-256) style for working experience section
 
-#### Oct 18, 2017
+#### Oct 01, 2018
 * few updates (Page 2)
 * Latest Google Chrome is breaking my customized scroll bar =(, causing the drag not working...
 
-#### Oct 12, 2017
+#### Oct 01, 2018
 
 * Add About Me terminal type style =D
 
